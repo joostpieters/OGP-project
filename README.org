@@ -1,0 +1,4 @@
+* Objectgericht programmeren
+** Project: Worms
+*** 2013-2014
+Richting: Bachelor in de informatica
